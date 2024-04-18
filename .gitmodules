@@ -1,0 +1,3 @@
+[submodule "route-handler-demo"]
+	path = route-handler-demo
+	url = https://github.com/umer-shehzad/Next.js-Tutorials.git
